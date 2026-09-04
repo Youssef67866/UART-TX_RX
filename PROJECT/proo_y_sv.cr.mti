@@ -1,0 +1,71 @@
+{D:/mo/yu_sv/UART TX.sv} {1 {vlog -work work -sv -stats=none {D:\mo\yu_sv\UART TX.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module uart_tx
+
+Top level modules:
+	uart_tx
+
+} {} {}} D:/mo/yu_sv/Main_Controller_RX.sv {1 {vlog -work work -sv -stats=none {D:\mo\yu_sv\Main_Controller_RX.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Main_Controller_rX
+
+Top level modules:
+	Main_Controller_rX
+
+} {} {}} D:/mo/yu_sv/UART_RX.sv {1 {vlog -work work -sv -stats=none {D:\mo\yu_sv\UART_RX.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module uart_rx
+
+Top level modules:
+	uart_rx
+
+} {} {}} D:/mo/yu_sv/rx_sampler.sv {1 {vlog -work work -sv -stats=none {D:\mo\yu_sv\rx_sampler.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module rx_sampler
+
+Top level modules:
+	rx_sampler
+
+} {} {}} D:/mo/yu_sv/parity.sv {1 {vlog -work work -sv -stats=none {D:\mo\yu_sv\parity.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Parity_Bit
+
+Top level modules:
+	Parity_Bit
+
+} {} {}} D:/mo/yu_sv/rx_partiy.sv {1 {vlog -work work -sv -stats=none {D:\mo\yu_sv\rx_partiy.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module rx_parity
+
+Top level modules:
+	rx_parity
+
+} {} {}} D:/mo/yu_sv/serializer.sv {1 {vlog -work work -sv -stats=none {D:\mo\yu_sv\serializer.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Serializer
+
+Top level modules:
+	Serializer
+
+} {} {}} D:/mo/yu_sv/mux.sv {1 {vlog -work work -sv -stats=none D:/mo/yu_sv/mux.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module MUX
+
+Top level modules:
+	MUX
+
+} {} {}} D:/mo/yu_sv/Main_Controller_TX.sv {1 {vlog -work work -sv -stats=none {D:\mo\yu_sv\Main_Controller_TX.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Main_Controller
+
+Top level modules:
+	Main_Controller
+
+} {} {}} D:/mo/yu_sv/uart_loopback_tb.sv {1 {vlog -work work -sv -stats=none {D:\mo\yu_sv\uart_loopback_tb.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module uart_grading_tb
+
+Top level modules:
+	uart_grading_tb
+
+} {} {}}
